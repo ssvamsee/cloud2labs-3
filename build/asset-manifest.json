@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cloud2labs/static/css/main.3f33262a.css",
+    "main.css": "/cloud2labs/static/css/main.5e7de785.css",
     "main.js": "/cloud2labs/static/js/main.fc306c4c.js",
     "static/js/415.31a2eb09.chunk.js": "/cloud2labs/static/js/415.31a2eb09.chunk.js",
     "static/js/787.077301b5.chunk.js": "/cloud2labs/static/js/787.077301b5.chunk.js",
-    "static/media/pre.svg": "/cloud2labs/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/pre.svg": "/cloud2labs/static/media/pre.63e1b9dd818c2e329ce9.svg",
     "index.html": "/cloud2labs/index.html",
-    "main.3f33262a.css.map": "/cloud2labs/static/css/main.3f33262a.css.map",
+    "main.5e7de785.css.map": "/cloud2labs/static/css/main.5e7de785.css.map",
     "main.fc306c4c.js.map": "/cloud2labs/static/js/main.fc306c4c.js.map",
     "415.31a2eb09.chunk.js.map": "/cloud2labs/static/js/415.31a2eb09.chunk.js.map",
     "787.077301b5.chunk.js.map": "/cloud2labs/static/js/787.077301b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f33262a.css",
+    "static/css/main.5e7de785.css",
     "static/js/main.fc306c4c.js"
   ]
 }
