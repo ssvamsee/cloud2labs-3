@@ -3,8 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import Toolstack from "./Toolstack";
-import TrackVisibility from "react-on-screen";
 
 function About() {
   return (
