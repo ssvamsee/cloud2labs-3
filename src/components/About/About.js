@@ -9,7 +9,7 @@ function About() {
     <Container fluid className="about-section">
       <Particle />
       <Container>
-        <Row style={{ justifyContent: "center",alignItems:"center", padding: "10px"}}>
+        <Row style={{ justifyContent: "center", alignItems: "center", padding: "10px" }}>
           <Col
             md={7}
             style={{
@@ -27,8 +27,8 @@ function About() {
             md={4}
             style={{ paddingTop: "120px", paddingBottom: "10px" }}
             className="about-img"
-            >
-            <img src='src/Assets/about.svg' alt="about" className="img-fluid about-image" />
+          >
+            <img src='Assets/about.svg' alt="about" className="img-fluid about-image" />
 
           </Col>
         </Row>
