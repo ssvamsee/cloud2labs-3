@@ -28,7 +28,7 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "10px" }}
             className="about-img"
             >
-            <img src='Assets/about.svg' alt="about" className="img-fluid about-image" />
+            <img src='src/Assets/about.svg' alt="about" className="img-fluid about-image" />
 
           </Col>
         </Row>
